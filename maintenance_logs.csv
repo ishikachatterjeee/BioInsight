@@ -1,0 +1,201 @@
+Log_ID,Equipment_ID,Fault,Action,Downtime_Hours
+M001,EQ038,Sensor Failure,Replaced Battery,4
+M002,EQ047,Communication Error,Sensor Replaced,8
+M003,EQ005,Battery Failure,System Restarted,1
+M004,EQ020,Low Pressure Alarm,Calibration Performed,1
+M005,EQ006,Battery Failure,Replaced Battery,10
+M006,EQ050,Display Error,Replaced Tubing,7
+M007,EQ019,Low Pressure Alarm,Sensor Replaced,5
+M008,EQ028,Power Supply Failure,Calibration Performed,6
+M009,EQ047,Power Supply Failure,Power Unit Repaired,12
+M010,EQ034,Sensor Failure,Power Unit Repaired,8
+M011,EQ044,Calibration Drift,Calibration Performed,3
+M012,EQ044,Display Error,Replaced Tubing,11
+M013,EQ025,Display Error,Calibration Performed,3
+M014,EQ027,Low Pressure Alarm,Power Unit Repaired,6
+M015,EQ032,Battery Failure,Power Unit Repaired,4
+M016,EQ019,Low Pressure Alarm,Calibration Performed,2
+M017,EQ032,Power Supply Failure,Calibration Performed,9
+M018,EQ041,Display Error,Replaced Tubing,8
+M019,EQ005,Calibration Drift,Replaced Battery,3
+M020,EQ034,Low Pressure Alarm,Calibration Performed,7
+M021,EQ048,Low Pressure Alarm,Replaced Battery,7
+M022,EQ046,Sensor Failure,Calibration Performed,1
+M023,EQ031,Flow Error,System Restarted,11
+M024,EQ039,Flow Error,Calibration Performed,4
+M025,EQ038,Calibration Drift,System Restarted,11
+M026,EQ035,Battery Failure,Calibration Performed,1
+M027,EQ046,Display Error,Sensor Replaced,12
+M028,EQ003,Communication Error,Software Updated,8
+M029,EQ019,Low Pressure Alarm,Replaced Tubing,1
+M030,EQ028,Power Supply Failure,Power Unit Repaired,11
+M031,EQ022,Power Supply Failure,Power Unit Repaired,12
+M032,EQ012,Power Supply Failure,Replaced Battery,2
+M033,EQ038,Flow Error,Replaced Battery,7
+M034,EQ005,Battery Failure,Power Unit Repaired,3
+M035,EQ010,Display Error,Replaced Battery,4
+M036,EQ002,Display Error,Sensor Replaced,8
+M037,EQ044,Battery Failure,Replaced Battery,11
+M038,EQ032,Battery Failure,Software Updated,10
+M039,EQ042,Low Pressure Alarm,System Restarted,11
+M040,EQ050,Power Supply Failure,Power Unit Repaired,11
+M041,EQ039,Battery Failure,Sensor Replaced,12
+M042,EQ036,Communication Error,Replaced Battery,7
+M043,EQ027,Communication Error,System Restarted,9
+M044,EQ013,Display Error,Software Updated,7
+M045,EQ007,Battery Failure,System Restarted,5
+M046,EQ015,Communication Error,Replaced Tubing,10
+M047,EQ025,Display Error,Power Unit Repaired,10
+M048,EQ049,Calibration Drift,System Restarted,4
+M049,EQ023,Power Supply Failure,Replaced Tubing,4
+M050,EQ026,Communication Error,Power Unit Repaired,2
+M051,EQ015,Communication Error,System Restarted,7
+M052,EQ036,Calibration Drift,System Restarted,8
+M053,EQ043,Flow Error,Replaced Tubing,9
+M054,EQ016,Communication Error,Replaced Battery,5
+M055,EQ024,Battery Failure,Replaced Tubing,6
+M056,EQ049,Low Pressure Alarm,Software Updated,2
+M057,EQ030,Display Error,Calibration Performed,4
+M058,EQ032,Low Pressure Alarm,Power Unit Repaired,11
+M059,EQ029,Calibration Drift,Sensor Replaced,4
+M060,EQ019,Sensor Failure,System Restarted,12
+M061,EQ041,Power Supply Failure,Sensor Replaced,5
+M062,EQ048,Low Pressure Alarm,System Restarted,11
+M063,EQ003,Sensor Failure,Power Unit Repaired,6
+M064,EQ003,Battery Failure,Replaced Battery,11
+M065,EQ040,Power Supply Failure,System Restarted,12
+M066,EQ046,Communication Error,System Restarted,7
+M067,EQ011,Low Pressure Alarm,System Restarted,8
+M068,EQ006,Power Supply Failure,Calibration Performed,1
+M069,EQ024,Low Pressure Alarm,Sensor Replaced,8
+M070,EQ026,Calibration Drift,Power Unit Repaired,11
+M071,EQ022,Battery Failure,Power Unit Repaired,3
+M072,EQ013,Communication Error,Sensor Replaced,8
+M073,EQ013,Communication Error,Replaced Battery,3
+M074,EQ039,Sensor Failure,Replaced Tubing,3
+M075,EQ005,Calibration Drift,Calibration Performed,11
+M076,EQ008,Low Pressure Alarm,Sensor Replaced,3
+M077,EQ015,Low Pressure Alarm,Replaced Tubing,5
+M078,EQ023,Low Pressure Alarm,System Restarted,12
+M079,EQ027,Flow Error,Replaced Tubing,7
+M080,EQ021,Power Supply Failure,Replaced Battery,5
+M081,EQ022,Flow Error,Power Unit Repaired,3
+M082,EQ005,Sensor Failure,Calibration Performed,1
+M083,EQ004,Low Pressure Alarm,Power Unit Repaired,12
+M084,EQ035,Sensor Failure,Software Updated,7
+M085,EQ042,Display Error,Software Updated,12
+M086,EQ050,Low Pressure Alarm,Software Updated,4
+M087,EQ016,Battery Failure,Replaced Battery,6
+M088,EQ021,Sensor Failure,Power Unit Repaired,7
+M089,EQ001,Calibration Drift,Power Unit Repaired,11
+M090,EQ023,Low Pressure Alarm,Replaced Tubing,5
+M091,EQ031,Communication Error,Replaced Battery,6
+M092,EQ020,Low Pressure Alarm,Replaced Tubing,2
+M093,EQ030,Power Supply Failure,Power Unit Repaired,9
+M094,EQ002,Flow Error,Replaced Battery,12
+M095,EQ049,Low Pressure Alarm,Replaced Tubing,8
+M096,EQ044,Battery Failure,System Restarted,7
+M097,EQ030,Calibration Drift,Power Unit Repaired,4
+M098,EQ031,Communication Error,System Restarted,6
+M099,EQ013,Flow Error,Software Updated,8
+M100,EQ016,Sensor Failure,Sensor Replaced,12
+M101,EQ040,Low Pressure Alarm,Replaced Battery,9
+M102,EQ047,Calibration Drift,Sensor Replaced,11
+M103,EQ029,Communication Error,Power Unit Repaired,6
+M104,EQ023,Flow Error,Replaced Battery,2
+M105,EQ019,Sensor Failure,System Restarted,9
+M106,EQ024,Power Supply Failure,System Restarted,2
+M107,EQ006,Low Pressure Alarm,System Restarted,1
+M108,EQ030,Flow Error,Calibration Performed,6
+M109,EQ004,Sensor Failure,Replaced Tubing,1
+M110,EQ042,Calibration Drift,Software Updated,11
+M111,EQ005,Battery Failure,Replaced Tubing,9
+M112,EQ013,Display Error,Calibration Performed,5
+M113,EQ010,Low Pressure Alarm,Calibration Performed,3
+M114,EQ020,Low Pressure Alarm,Replaced Battery,12
+M115,EQ011,Low Pressure Alarm,Calibration Performed,8
+M116,EQ007,Flow Error,Replaced Tubing,1
+M117,EQ006,Sensor Failure,Sensor Replaced,5
+M118,EQ014,Power Supply Failure,Replaced Tubing,12
+M119,EQ018,Battery Failure,System Restarted,6
+M120,EQ009,Power Supply Failure,Sensor Replaced,7
+M121,EQ026,Display Error,System Restarted,12
+M122,EQ043,Display Error,Replaced Battery,4
+M123,EQ050,Communication Error,Replaced Tubing,11
+M124,EQ024,Low Pressure Alarm,Sensor Replaced,2
+M125,EQ011,Low Pressure Alarm,System Restarted,7
+M126,EQ028,Low Pressure Alarm,Power Unit Repaired,5
+M127,EQ013,Sensor Failure,Software Updated,11
+M128,EQ010,Power Supply Failure,Calibration Performed,1
+M129,EQ012,Sensor Failure,Sensor Replaced,2
+M130,EQ037,Sensor Failure,Replaced Tubing,3
+M131,EQ008,Low Pressure Alarm,System Restarted,8
+M132,EQ042,Power Supply Failure,Replaced Tubing,11
+M133,EQ010,Low Pressure Alarm,Software Updated,11
+M134,EQ040,Battery Failure,Power Unit Repaired,8
+M135,EQ028,Flow Error,System Restarted,3
+M136,EQ011,Display Error,Calibration Performed,5
+M137,EQ017,Power Supply Failure,Calibration Performed,3
+M138,EQ022,Battery Failure,Replaced Battery,12
+M139,EQ025,Communication Error,Replaced Tubing,4
+M140,EQ003,Display Error,System Restarted,11
+M141,EQ032,Communication Error,Software Updated,8
+M142,EQ050,Calibration Drift,Replaced Battery,2
+M143,EQ041,Sensor Failure,Replaced Battery,9
+M144,EQ043,Power Supply Failure,Replaced Battery,9
+M145,EQ027,Battery Failure,Sensor Replaced,4
+M146,EQ034,Communication Error,System Restarted,8
+M147,EQ050,Flow Error,Software Updated,5
+M148,EQ049,Communication Error,Sensor Replaced,9
+M149,EQ013,Low Pressure Alarm,Replaced Tubing,8
+M150,EQ011,Power Supply Failure,Software Updated,2
+M151,EQ021,Battery Failure,Power Unit Repaired,11
+M152,EQ003,Communication Error,Calibration Performed,10
+M153,EQ032,Low Pressure Alarm,System Restarted,3
+M154,EQ042,Sensor Failure,Power Unit Repaired,4
+M155,EQ048,Display Error,Replaced Tubing,4
+M156,EQ041,Calibration Drift,System Restarted,3
+M157,EQ036,Sensor Failure,System Restarted,10
+M158,EQ021,Communication Error,Sensor Replaced,3
+M159,EQ030,Battery Failure,Replaced Battery,3
+M160,EQ030,Calibration Drift,Replaced Battery,12
+M161,EQ041,Power Supply Failure,Power Unit Repaired,6
+M162,EQ032,Flow Error,Power Unit Repaired,5
+M163,EQ027,Communication Error,Software Updated,7
+M164,EQ038,Low Pressure Alarm,Sensor Replaced,4
+M165,EQ038,Flow Error,System Restarted,2
+M166,EQ017,Low Pressure Alarm,Replaced Tubing,4
+M167,EQ046,Power Supply Failure,Calibration Performed,8
+M168,EQ027,Low Pressure Alarm,Replaced Battery,2
+M169,EQ032,Battery Failure,Power Unit Repaired,6
+M170,EQ011,Power Supply Failure,Calibration Performed,8
+M171,EQ029,Calibration Drift,Sensor Replaced,12
+M172,EQ010,Display Error,Calibration Performed,11
+M173,EQ032,Display Error,Power Unit Repaired,7
+M174,EQ049,Sensor Failure,Calibration Performed,11
+M175,EQ019,Low Pressure Alarm,Sensor Replaced,5
+M176,EQ004,Sensor Failure,Sensor Replaced,6
+M177,EQ010,Calibration Drift,Software Updated,1
+M178,EQ045,Communication Error,System Restarted,9
+M179,EQ040,Calibration Drift,Replaced Tubing,2
+M180,EQ016,Low Pressure Alarm,Power Unit Repaired,9
+M181,EQ011,Communication Error,Replaced Tubing,6
+M182,EQ004,Battery Failure,Replaced Battery,6
+M183,EQ019,Flow Error,Replaced Battery,4
+M184,EQ001,Battery Failure,Replaced Tubing,12
+M185,EQ012,Sensor Failure,Power Unit Repaired,5
+M186,EQ003,Flow Error,Power Unit Repaired,9
+M187,EQ015,Low Pressure Alarm,Software Updated,3
+M188,EQ045,Calibration Drift,Power Unit Repaired,10
+M189,EQ047,Communication Error,Software Updated,10
+M190,EQ040,Flow Error,Replaced Tubing,7
+M191,EQ002,Power Supply Failure,Calibration Performed,11
+M192,EQ044,Sensor Failure,Power Unit Repaired,11
+M193,EQ034,Display Error,System Restarted,2
+M194,EQ044,Calibration Drift,Calibration Performed,10
+M195,EQ021,Low Pressure Alarm,Replaced Battery,11
+M196,EQ007,Sensor Failure,Power Unit Repaired,1
+M197,EQ041,Power Supply Failure,Calibration Performed,8
+M198,EQ018,Power Supply Failure,Replaced Battery,7
+M199,EQ011,Battery Failure,Replaced Battery,9
+M200,EQ021,Communication Error,Software Updated,5

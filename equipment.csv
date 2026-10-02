@@ -1,0 +1,51 @@
+Equipment_ID,Equipment_Name,Department,Manufacturer,Purchase_Year,Status,Health_Score,Failure_Count,Utilization_Hours,Calibration_Due_Days
+EQ001,Patient Monitor,ICU,GE Healthcare,2022,Active,84,4,9926,56
+EQ002,Ultrasound Machine,Radiology,Zoll,2024,Active,87,5,9826,150
+EQ003,Centrifuge,Laboratory,Fresenius,2023,Active,84,3,1518,33
+EQ004,Defibrillator,Emergency,Fresenius,2018,Active,73,7,1582,80
+EQ005,X-Ray Machine,Radiology,Siemens Healthineers,2020,Maintenance,66,7,7836,104
+EQ006,Ultrasound Machine,Radiology,Fresenius,2022,Active,78,4,11191,91
+EQ007,Holter Monitor,Cardiology,Drager,2019,Active,61,6,1359,177
+EQ008,Anesthesia Workstation,OT,Mindray,2020,Active,84,7,4703,57
+EQ009,Holter Monitor,Cardiology,Siemens Healthineers,2021,Active,72,1,1639,173
+EQ010,Stress Test System,Cardiology,Zoll,2021,Active,62,6,5720,151
+EQ011,Hematology Analyzer,Laboratory,GE Healthcare,2020,Active,78,4,9040,58
+EQ012,Phototherapy Unit,NICU,B Braun,2024,Calibration Due,68,3,9978,176
+EQ013,ECG Machine,Cardiology,Philips,2021,Active,81,5,2240,69
+EQ014,Anesthesia Workstation,OT,Drager,2021,Calibration Due,96,0,8696,43
+EQ015,Blood Gas Analyzer,Laboratory,Mindray,2024,Calibration Due,90,0,8162,35
+EQ016,Centrifuge,Laboratory,Fresenius,2024,Active,98,2,993,150
+EQ017,CT Scanner,Radiology,Fresenius,2022,Active,84,1,6354,44
+EQ018,Stress Test System,Cardiology,Philips,2024,Active,76,2,7571,63
+EQ019,Blood Gas Analyzer,Laboratory,Zoll,2022,Active,85,3,5762,149
+EQ020,Anesthesia Workstation,OT,B Braun,2023,Maintenance,91,0,7068,129
+EQ021,Infusion Pump,ICU,Fresenius,2023,Active,67,6,9723,106
+EQ022,Anesthesia Workstation,OT,B Braun,2018,Active,82,1,8257,26
+EQ023,Stress Test System,Cardiology,Drager,2021,Maintenance,77,5,11817,92
+EQ024,Ventilator,ICU,Mindray,2020,Calibration Due,98,8,4944,111
+EQ025,Biochemistry Analyzer,Laboratory,Mindray,2018,Active,87,5,5123,142
+EQ026,Stress Test System,Cardiology,Philips,2024,Maintenance,75,8,10836,138
+EQ027,Defibrillator,Emergency,Siemens Healthineers,2020,Active,85,0,922,11
+EQ028,CT Scanner,Radiology,Mindray,2025,Active,98,4,6497,159
+EQ029,CT Scanner,Radiology,Mindray,2018,Active,89,0,10403,38
+EQ030,Anesthesia Workstation,OT,GE Healthcare,2019,Calibration Due,88,6,3605,95
+EQ031,Holter Monitor,Cardiology,B Braun,2025,Active,78,3,5636,157
+EQ032,Phototherapy Unit,NICU,Drager,2023,Active,63,4,9425,109
+EQ033,Defibrillator,Emergency,GE Healthcare,2021,Maintenance,70,8,7635,20
+EQ034,Incubator,NICU,Zoll,2023,Maintenance,68,0,4550,25
+EQ035,MRI Scanner,Radiology,Drager,2019,Active,65,0,11546,70
+EQ036,Phototherapy Unit,NICU,GE Healthcare,2021,Active,96,2,5518,117
+EQ037,Defibrillator,Emergency,Siemens Healthineers,2023,Calibration Due,100,7,8915,22
+EQ038,Blood Gas Analyzer,Laboratory,Siemens Healthineers,2024,Active,89,1,11484,120
+EQ039,Hematology Analyzer,Laboratory,Fresenius,2020,Active,72,4,8183,52
+EQ040,Holter Monitor,Cardiology,B Braun,2024,Active,72,8,9890,75
+EQ041,Electrosurgical Unit,OT,Fresenius,2023,Calibration Due,77,5,1094,96
+EQ042,Patient Monitor,ICU,Drager,2023,Maintenance,76,1,4626,71
+EQ043,Centrifuge,Laboratory,B Braun,2024,Active,63,1,734,114
+EQ044,Anesthesia Workstation,OT,Zoll,2022,Active,67,8,9511,16
+EQ045,Hematology Analyzer,Laboratory,Siemens Healthineers,2021,Calibration Due,80,4,9444,165
+EQ046,Holter Monitor,Cardiology,Zoll,2019,Calibration Due,82,1,1932,92
+EQ047,Ultrasound Machine,Radiology,Philips,2025,Active,69,6,11936,44
+EQ048,Biochemistry Analyzer,Laboratory,Philips,2021,Maintenance,73,8,5350,65
+EQ049,Centrifuge,Laboratory,Fresenius,2024,Maintenance,77,7,4618,98
+EQ050,X-Ray Machine,Radiology,B Braun,2023,Active,92,4,7766,80
